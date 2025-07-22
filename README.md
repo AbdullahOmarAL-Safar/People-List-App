@@ -1,28 +1,32 @@
-📦 Project: React Food List App
-A simple and modern React application that displays categorized lists of fruits and vegetables with their calorie values. Designed with clean UI and supports future extension for features like dark mode, sorting, filtering, etc.
+## 👥 People List App
+A clean and responsive React application that displays a list of people along with their age and whether they are students. This project is great for beginners to practice working with components, props, and dynamic rendering in React.
+---
 
-🖼️ Demo
-A responsive card-style list that showcases items using modern CSS with hover effects and flexible design.
 
-🚀 Features
-✅ Built with React functional components
+## 🚀 Features
+🧩 Built with React
+📃 Styled with custom CSS
+✅ Responsive and modern card UI
+📦 Uses static data via a JavaScript module
+🧠 Displays conditional content based on student status
+---
 
-🎨 Clean, modern UI with CSS gradients and shadows
+## 🧰 Tech Stack
+React (Vite or CRA)
+JavaScript (ES6)
+CSS3
+---
 
-🧠 Component reusability using List component
+## 📂 Project Structure
+📦 src
+├── App.jsx          # Main component rendering people list
+├── people.jsx       # Static data for rendering
+└── index.css        # Custom styles
+---
 
-📦 Data structured by categories (Fruits, Vegetables)
+ ## 👨‍💻 Author
 
-🧪 Includes sorting/filtering logic (commented and ready)
-
-⚙️ Ready for dark/light mode extension
-
-📁 Project Structure
-bash
-Copy
-Edit
-├── App.jsx # Main app logic with data arrays
-├── List.jsx # Reusable component to render list items
-├── main.jsx # App entry point
-├── index.css # Modern CSS styles
-└── README.md # Project description
+**Abdullah Omar Akram AL-Safar**  
+📺 [LEVEL UP IT - YouTube](https://www.youtube.com/@LEVEL_UP_IT)  
+🔗 [LinkedIn](https://www.linkedin.com/in/abdullah-omar-2a552834b)  
+📬 [Email](mailto:abodyalsafar2009@gmail.com)
